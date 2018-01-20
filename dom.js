@@ -1,4 +1,4 @@
-var myDocument = [
+var myocument = [
   {
     tagName: "div",
     children: [
